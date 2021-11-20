@@ -1,4 +1,5 @@
-# AI-Project
+## Algorithm for the best performing CNN architecture on the Fashion-MNIST data-set in NAS space.
+
 Advanced neural networks for specific tasks require
 weeks, if not months, of rigorous study by professionals with
 extensive subject knowledge.Many scholars have been interested
